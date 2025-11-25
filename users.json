@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "userId": "109160654678417579950",
+      "uuid": "aad7b0264c94d11e3ece4035f2cc46689c0c8ffa5e4c95ea56c6974d019b26b9",
+      "rp": "http://localhost/TallyIt",
+      "ngrok": "",
+      "userName": "Ratan Mondal",
+      "userImg": "https://lh3.googleusercontent.com/a/ACg8ocIhw4A561m7mO3I4bMzRw3C0W0FogOPlF4eueHTAb4Rb0mFxLa2=s96-c",
+      "userEmail": "ratanmondal2313@gmail.com",
+      "timestamp": "2025-11-25T10:34:15.428Z",
+      "source": "TallyIt Google Login"
+      }
+    ]
+  }
